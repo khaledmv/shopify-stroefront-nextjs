@@ -1,4 +1,4 @@
-
+import "@assets/main.css"
 import { AppProps  } from "next/app"
 // import { Layout } from "../components/common/index" 
 import { FC } from "react"
